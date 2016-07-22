@@ -18,7 +18,6 @@
     </context>
   </template>
   <template name="I" value="for ($VAR$ in $SELECTION$) {&#10;  $END$&#10;}" description="Iterate (for..in)" toReformat="true" toShortenFQNames="true">
-    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
     <variable name="VAR" expression="dartSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="false" />
