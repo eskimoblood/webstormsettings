@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="518dc5a9-cc05-4c33-858a-9f908bad7e79" name="470111-andreas" url="http://ftp.baumpflege-koeberle.de">
+        <fileTransfer host="ftp.baumpflege-koeberle.de" port="21" rootFolder="/webseiten" password="dfe9dfe9dfc5df9cdfefdf9edfe1dffbdfd3dfdedfffdffedfc4dfcddfd3dfdcdfdcdfe9dfefdfc4" username="470111-andreas">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
