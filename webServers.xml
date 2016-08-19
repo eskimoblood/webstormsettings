@@ -2,12 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="518dc5a9-cc05-4c33-858a-9f908bad7e79" name="470111-andreas" url="http://ftp.baumpflege-koeberle.de">
-        <fileTransfer host="ftp.baumpflege-koeberle.de" port="21" rootFolder="/webseiten" password="dfe9dfe9dfc5df9cdfefdf9edfe1dffbdfd3dfdedfffdffedfc4dfcddfd3dfdcdfdcdfe9dfefdfc4" username="470111-andreas">
+        <fileTransfer host="ftp.baumpflege-koeberle.de" port="21" rootFolder="/webseiten">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAwLXOc8znT1XCSmUXTu5F7sUoBYyHZECSGP/E/dWqMXmdqaVaV9ttjVznieGsbwaZis9DEUSOqQhHV1m5DtOkFlNh/TwbMcgl8Q6vpicgzVVqqOoIj057Iy8/409pLWl++XybwENo9ewkMpVrxk6TuyQK9+wpiN9tiTcybrrUALozzh4Av3b2HWDAP0tTdR/M0vvIqqL0PpUsvliD56BGHnSA2PJZXk4GkMZyQxrZUCB1x6VYOEWaRRZrxeFGyAzaaixSv8pU3E2SVf6mTslLxfw=</data>
   </component>
 </application>
