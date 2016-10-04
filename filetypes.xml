@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="LineChart" type="PLAIN_TEXT" />
       <mapping pattern="palette" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="offerpage" type="PLAIN_TEXT" />
       <mapping pattern="phantomjs-macos" type="PLAIN_TEXT" />
       <mapping ext="stamp" type="PLAIN_TEXT" />
