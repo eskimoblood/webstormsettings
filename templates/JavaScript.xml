@@ -23,7 +23,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="bE" value="beforeEach(() =&gt; {&#10;&#10;});" description="beforeEach" toReformat="false" toShortenFQNames="true">
+  <template name="be" value="beforeEach(() =&gt; {&#10;  $END$&#10;});" description="beforeEach" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -39,6 +39,11 @@
     </context>
   </template>
   <template name="m" value="jest.mock('$END$', () =&gt; '$END$');&#10;" description="mock" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ba" value="beforeAll(()=&gt; {&#10;  $END$&#10;});" description="beforAll" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
