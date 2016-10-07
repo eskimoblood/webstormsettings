@@ -3,9 +3,6 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
-    </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_ABBREVIATED_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />
