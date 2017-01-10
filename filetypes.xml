@@ -3,21 +3,22 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="2000000000000000" type="JSON" />
-      <mapping pattern="mandators" type="JSON" />
       <mapping pattern="1000000000000000" type="JSON" />
       <mapping pattern="4000000000000000" type="JSON" />
       <mapping pattern="identities" type="JSON" />
+      <mapping pattern="mandators" type="JSON" />
       <mapping pattern="3000000000000000" type="JSON" />
+      <mapping pattern=".jestrc" type="PLAIN_TEXT" />
+      <mapping pattern="phantomjs-macos" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="babelrc" type="PLAIN_TEXT" />
       <mapping pattern="LineChart" type="PLAIN_TEXT" />
       <mapping pattern="palette" type="PLAIN_TEXT" />
       <mapping pattern="identeties" type="PLAIN_TEXT" />
       <mapping pattern="offerpage" type="PLAIN_TEXT" />
-      <mapping pattern="phantomjs-macos" type="PLAIN_TEXT" />
-      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="stamp" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
