@@ -1,5 +1,6 @@
 <code_scheme name="Default (1)">
   <option name="RIGHT_MARGIN" value="100" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   <JSCodeStyleSettings>
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
