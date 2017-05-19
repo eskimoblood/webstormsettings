@@ -5,7 +5,7 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
-  <template name="d" value="debugger" description="debugger" toReformat="true" toShortenFQNames="true">
+  <template name="d" value="// eslint-disable-next-line&#10;debugger" description="debugger" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
