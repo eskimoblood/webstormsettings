@@ -1,0 +1,6 @@
+<keymap version="1" name="mine" parent="Mac OS X 10.5+">
+  <action id="ReformatCode" />
+  <action id="Tool_External Tools_Prettier">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+</keymap>
