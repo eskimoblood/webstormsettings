@@ -253,7 +253,7 @@
       <option name="workingDir" value="" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--write  --tab-width 4 --no-semi --single-quote --trailing-comma all $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
