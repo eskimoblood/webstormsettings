@@ -53,4 +53,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="lo" value="console.log($END$) ||" description="log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
 </templateSet>
