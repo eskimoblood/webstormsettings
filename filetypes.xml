@@ -17,6 +17,7 @@
       <mapping pattern="offerpage" type="PLAIN_TEXT" />
       <mapping pattern="babelrc" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="stamp" type="PLAIN_TEXT" />
     </extensionMap>
